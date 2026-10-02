@@ -26,7 +26,7 @@ import {
 
 const KEY = 'prayerapp.settings.v1';
 
-const LANGUAGES: AppLanguage[] = ['en', 'sv', 'ar', 'bn', 'ur', 'hi', 'fr', 'es', 'de', 'tr', 'id', 'ru', 'zh'];
+const LANGUAGES: AppLanguage[] = ['en', 'sv', 'ar', 'bn', 'ur', 'hi', 'fr', 'es', 'de', 'tr', 'id', 'ru', 'zh', 'uk'];
 
 // No 'dynamic': removed 2026-08-27. A stored 'dynamic' from an older
 // build falls through to the default, which is the colour that build was
