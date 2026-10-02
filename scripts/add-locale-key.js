@@ -17,7 +17,7 @@ const path = require('path');
 const LOCALES_DIR = path.join(__dirname, '..', 'src', 'i18n', 'locales');
 const ALL_LOCALES = [
   'en.json', 'sv.json', 'ar.json', 'bn.json', 'de.json', 'es.json',
-  'fr.json', 'hi.json', 'id.json', 'ru.json', 'tr.json', 'ur.json', 'zh.json'
+  'fr.json', 'hi.json', 'id.json', 'ru.json', 'tr.json', 'ur.json', 'zh.json', 'uk.json'
 ];
 
 const args = process.argv.slice(2);
