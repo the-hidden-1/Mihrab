@@ -13,6 +13,7 @@ import tr from './locales/tr.json';
 import id from './locales/id.json';
 import ru from './locales/ru.json';
 import zh from './locales/zh.json';
+import ua from '.locales/ua.json';
 
 void i18n.use(initReactI18next).init({
   resources: {
@@ -29,6 +30,7 @@ void i18n.use(initReactI18next).init({
     id: { translation: id },
     ru: { translation: ru },
     zh: { translation: zh },
+    ua: { translation: ua },
   },
   lng: 'en',
   fallbackLng: 'en',
