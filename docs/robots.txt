@@ -18,6 +18,7 @@ Allow: /ru/
 Allow: /tr/
 Allow: /ur/
 Allow: /zh/
+Allow: /uk/
 Disallow: /*.md$
 Disallow: /release/
 Disallow: /design/
