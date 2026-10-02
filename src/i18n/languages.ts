@@ -26,6 +26,7 @@ export const APP_LANGUAGES: { id: AppLanguage; label: string }[] = [
   { id: 'id', label: 'Bahasa Indonesia' },
   { id: 'ru', label: 'Русский' },
   { id: 'zh', label: '中文' },
+  { id: 'uk', label: 'Українська' }
 ];
 
 /** What to call a language, for a picker row or a caption. */
