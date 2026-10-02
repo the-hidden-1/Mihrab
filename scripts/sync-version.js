@@ -28,7 +28,7 @@ const SITE = path.join(ROOT, 'docs', 'index.html');
 const SITE_SV = path.join(ROOT, 'docs', 'sv', 'index.html');
 const RECIPE = path.join(ROOT, 'contrib', 'fdroid', 'com.prayer_times.yml');
 /** Every language page other than English and Swedish, which have rules of their own. */
-const OTHER_SITES = ['ar', 'bn', 'de', 'es', 'fr', 'hi', 'id', 'ru', 'tr', 'ur', 'zh', 'ua'].map(
+const OTHER_SITES = ['ar', 'bn', 'de', 'es', 'fr', 'hi', 'id', 'ru', 'tr', 'ur', 'zh', 'uk'].map(
   lang => ({ lang, file: path.join(ROOT, 'docs', lang, 'index.html') }),
 );
 
