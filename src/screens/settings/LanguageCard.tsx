@@ -17,6 +17,7 @@ const LANGUAGE_LABELS: Array<{ id: string; label: string; isI18nKey?: boolean }>
   { id: 'id', label: 'Bahasa Indonesia' },
   { id: 'ru', label: 'Русский' },
   { id: 'zh', label: '中文' },
+  { id: 'uk', label: 'Українська' }
 ];
 
 type LanguageCardProps = {
