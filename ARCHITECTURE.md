@@ -16,7 +16,7 @@ A prayer-times + Islamic-life companion app. Bundles:
 - **Notifications** — adhan alerts, pre-prayer reminders, fasting reminders, journal log actions.
 - **Live Activity** — pinned countdown to next prayer (Android ongoing notification with progress bar + iOS ActivityKit Lock Screen / Dynamic Island).
 - **Companion content** — Quran reader (Arabic + 14 translations), Tilāwah (continuous recitation with lock-screen controls), duas (Hisnul Muslim), Tasbih, Qibla compass, monthly calendar, prayer journal, fasting tracker.
-- **13 locales** in full parity: `en sv ar bn de es fr hi id ru tr ur zh`. Arabic and Urdu are RTL.
+- **13 locales** in full parity: `en sv ar bn de es fr hi id ru tr ur zh uk`. Arabic and Urdu are RTL.
 
 Bundle ids:
 
