@@ -46,6 +46,7 @@ const LOCALES = [
   { android: 'values-tr', ios: 'tr' },
   { android: 'values-ur', ios: 'ur' },
   { android: 'values-zh', ios: 'zh-Hans' },
+  { android: 'values-uk', ios: 'uk' },
 ];
 
 /**
