@@ -13,7 +13,7 @@ import tr from './locales/tr.json';
 import id from './locales/id.json';
 import ru from './locales/ru.json';
 import zh from './locales/zh.json';
-import ua from '.locales/ua.json';
+import uk from '.locales/uk.json';
 
 void i18n.use(initReactI18next).init({
   resources: {
