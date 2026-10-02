@@ -60,7 +60,7 @@ LOCALES = {
     "en-US": "en-US", "sv": "sv-SE", "ar-SA": "ar",
     "de-DE": "de-DE", "es-ES": "es-ES", "fr-FR": "fr-FR", "id": "id",
     "tr": "tr-TR", "ru": "ru-RU", "zh-Hans": "zh-CN", "hi": "hi-IN",
-    "bn": "bn-BD", "ur": "ur",
+    "bn": "bn-BD", "ur": "ur", "ua": "ua"
 }
 PRIMARY_CATEGORY = "LIFESTYLE"
 SECONDARY_CATEGORY = "REFERENCE"
