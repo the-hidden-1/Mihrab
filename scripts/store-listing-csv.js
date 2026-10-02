@@ -40,6 +40,7 @@ const LANGUAGES = [
   ['tr-TR', 'Turkish'],
   ['ur', 'Urdu'],
   ['zh-CN', 'Chinese (Simplified)'],
+  ['uk-UA', 'Українська' ],
 ];
 
 const read = (dir, f) =>
